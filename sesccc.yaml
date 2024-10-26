@@ -1,3 +1,5 @@
+payload:
+#自用规则
  - DOMAIN-SUFFIX,chengzijianzhan.cn,DIRECT
  - DOMAIN-SUFFIX,oceanengine.com,DIRECT
  - DOMAIN-SUFFIX,jd.com,DIRECT
