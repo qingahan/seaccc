@@ -1,0 +1,7 @@
+ - DOMAIN-SUFFIX,chengzijianzhan.cn,DIRECT
+ - DOMAIN-SUFFIX,oceanengine.com,DIRECT
+ - DOMAIN-SUFFIX,jd.com,DIRECT
+ - DOMAIN-SUFFIX,taobao.com,DIRECT
+ - PROCESS-NAME,Jingmai.exe,DIRECT
+ - PROCESS-NAME,AliIM.exe,DIRECT
+
